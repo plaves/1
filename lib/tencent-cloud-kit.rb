@@ -1,3 +1,5 @@
+require 'tencent-cloud-kit/version'
+
 module Tencent
   module Cloud
     module Kit
